@@ -1,0 +1,31 @@
+name: Störungsmonitor
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: stoerungsmonitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Störungen prüfen
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python3 stoerungsmonitor.py --once
+
+      - name: Gedächtnis speichern
+        run: |
+          git config user.name "stoerungsmonitor"
+          git config user.email "actions@users.noreply.github.com"
+          git add gesehen.json
+          git diff --cached --quiet || (git commit -m "Gedächtnis aktualisiert" && git push)
