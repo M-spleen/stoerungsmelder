@@ -19,5 +19,6 @@
   "HIM_FREETEXT_374561": "U1: Unterbrechung|U1, U3: Die Linie fährt aufgrund eines Schadensereignisses nicht zwischen Uhlandstraße und Wittenbergplatz.",
   "HIM_FREETEXT_374566": "U3: Unterbrechung|U1, U3: Die Linie fährt aufgrund einer Betriebsstörung nicht zwischen Spichernstraße und Gleisdreieck.",
   "HIM_FREETEXT_375189": "Störung beendet|U3: Die Störung ist beendet. Die Linie fährt noch unregelmäßig.",
-  "HIM_FREETEXT_375390": "U1: Unterbrechung|U1, U3: Die Linie fährt aufgrund einer Betriebsstörung nicht zwischen Nollendorfplatz und Gleisdreieck."
+  "HIM_FREETEXT_375390": "U1: Unterbrechung|U1, U3: Die Linie fährt aufgrund einer Betriebsstörung nicht zwischen Nollendorfplatz und Gleisdreieck.",
+  "HIM_FREETEXT_368346": "Kein Halt: Podbielskiallee|U3: Die Linie hält aufgrund von Bauarbeiten Richtung Warschauer Straße nicht im Bahnhof Podbielskiallee. Um den Bahnhof zu erreichen, fahren Sie bitte bis zum nächsten Bahnhof Breitenbachplatz und von dort wieder zurück."
 }
