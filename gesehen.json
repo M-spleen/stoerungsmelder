@@ -21,5 +21,6 @@
   "HIM_FREETEXT_375189": "Störung beendet|U3: Die Störung ist beendet. Die Linie fährt noch unregelmäßig.",
   "HIM_FREETEXT_375390": "U1: Unterbrechung|U1, U3: Die Linie fährt aufgrund einer Betriebsstörung nicht zwischen Nollendorfplatz und Gleisdreieck.",
   "HIM_FREETEXT_368346": "Kein Halt: Podbielskiallee|U3: Die Linie hält aufgrund von Bauarbeiten Richtung Warschauer Straße nicht im Bahnhof Podbielskiallee. Um den Bahnhof zu erreichen, fahren Sie bitte bis zum nächsten Bahnhof Breitenbachplatz und von dort wieder zurück.",
-  "HIM_FREETEXT_375827": "Unterbrechung|Bus 191: Die Linie fährt aufgrund eines Verkehrsunfalls nicht zwischen U Kaulsdorf-Nord und S+U Wuhletal, bzw. S+U Wuhletal und Hellersdorfer Straße/Gülzower Straße."
+  "HIM_FREETEXT_375827": "Unterbrechung|Bus 191: Die Linie fährt aufgrund eines Verkehrsunfalls nicht zwischen U Kaulsdorf-Nord und S+U Wuhletal, bzw. S+U Wuhletal und Hellersdorfer Straße/Gülzower Straße.",
+  "HIM_FREETEXT_376215": "U6: Unterbrechung|U6: Die Linie fährt aufgrund eines Schadensereignisses nicht zwischen Hallesches Tor und Unter den Linden."
 }
