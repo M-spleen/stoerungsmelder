@@ -23,5 +23,6 @@
   "HIM_FREETEXT_368346": "Kein Halt: Podbielskiallee|U3: Die Linie hält aufgrund von Bauarbeiten Richtung Warschauer Straße nicht im Bahnhof Podbielskiallee. Um den Bahnhof zu erreichen, fahren Sie bitte bis zum nächsten Bahnhof Breitenbachplatz und von dort wieder zurück.",
   "HIM_FREETEXT_375827": "Unterbrechung|Bus 191: Die Linie fährt aufgrund eines Verkehrsunfalls nicht zwischen U Kaulsdorf-Nord und S+U Wuhletal, bzw. S+U Wuhletal und Hellersdorfer Straße/Gülzower Straße.",
   "HIM_FREETEXT_376215": "U6: Unterbrechung|U6: Die Linie fährt aufgrund eines Schadensereignisses nicht zwischen Hallesches Tor und Unter den Linden.",
-  "HIM_FREETEXT_376499": "U9: Unterbrechung|U9: Die Linie fährt aufgrund eines Schadensereignisses nicht zwischen Walther-Schreiber-Platz und Zoologischer Garten."
+  "HIM_FREETEXT_376499": "U9: Unterbrechung|U9: Die Linie fährt aufgrund eines Schadensereignisses nicht zwischen Walther-Schreiber-Platz und Zoologischer Garten.",
+  "HIM_FREETEXT_376501": "U9: Fahrten von einem Gleis|U9: Die Linie fährt aufgrund eines Schadensereignisses zwischen Friedrich-Wilhelm-Platz und Bundesplatz in beide Richtungen nur vom Gleis Richtung Osloer Straße."
 }
